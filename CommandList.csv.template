@@ -1,0 +1,5 @@
+sh ver
+sh inv
+sh ip route
+sh ip int brief
+sh ip route
