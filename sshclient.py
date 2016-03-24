@@ -166,7 +166,7 @@ try:
             # Strip whitespace characters from the current entry and fill
             # variable ip with the result.
             ip = textwrap.wrap(l)[0]
-
+			# testcomment
             try:
                 # Run the SSH commands list object against the current device
                 # IP/Hostname by using function 'sendcommand'
